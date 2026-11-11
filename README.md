@@ -1,4 +1,3 @@
-# Excel_Projects_Data_Analytics
 # 📊 Data Science & Data Analytics Job Market Analysis
 
 An Excel-based data analytics project exploring **data-related job salaries, required skills, job types, and geographic differences**.
